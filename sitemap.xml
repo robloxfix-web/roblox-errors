@@ -1,2513 +1,2525 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://robloxfix-web.github.io/index.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/index.html</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://robloxfix-web.github.io/roblox-errors/about.html</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://robloxfix-web.github.io/roblox-errors/contact.html</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://robloxfix-web.github.io/roblox-errors/privacy.html</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0000.html</loc>
+    <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0000.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0001.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0001.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0002.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0002.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0003.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0003.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0004.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0004.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0005.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0005.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0006.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0006.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0007.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0007.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0008.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0008.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0009.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0009.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0010.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0010.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0011.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0011.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0012.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0012.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0013.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0013.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0014.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0014.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0015.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0015.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0016.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0016.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0017.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0017.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0018.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0018.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0019.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0019.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0020.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0020.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0021.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0021.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0022.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0022.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0023.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0023.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0024.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0024.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0025.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0025.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0026.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0026.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0027.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0027.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0028.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0028.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0029.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0029.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0030.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0030.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0031.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0031.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0032.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0032.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0033.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0033.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0034.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0034.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0035.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0035.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0036.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0036.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0037.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0037.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0038.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0038.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0039.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0039.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0040.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0040.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0041.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0041.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0042.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0042.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0043.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0043.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0044.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0044.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0045.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0045.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0046.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0046.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0047.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0047.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0048.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0048.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0049.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0049.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0050.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0050.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0051.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0051.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0052.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0052.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0053.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0053.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0054.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0054.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0055.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0055.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0056.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0056.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0057.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0057.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0058.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0058.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0059.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0059.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0060.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0060.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0061.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0061.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0062.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0062.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0063.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0063.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0064.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0064.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0065.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0065.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0066.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0066.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0067.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0067.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0068.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0068.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0069.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0069.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0070.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0070.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0071.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0071.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0072.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0072.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0073.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0073.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0074.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0074.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0075.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0075.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0076.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0076.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0077.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0077.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0078.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0078.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0079.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0079.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0080.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0080.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0081.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0081.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0082.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0082.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0083.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0083.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0084.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0084.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0085.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0085.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0086.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0086.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0087.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0087.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0088.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0088.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0089.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0089.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0090.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0090.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0091.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0091.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0092.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0092.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0093.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0093.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0094.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0094.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0095.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0095.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0096.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0096.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0097.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0097.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0098.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0098.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0099.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0099.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0100.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0100.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0101.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0101.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0102.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0102.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0103.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0103.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0104.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0104.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0105.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0105.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0106.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0106.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0107.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0107.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0108.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0108.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0109.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0109.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0110.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0110.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0111.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0111.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0112.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0112.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0113.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0113.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0114.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0114.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0115.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0115.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0116.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0116.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0117.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0117.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0118.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0118.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0119.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0119.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0120.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0120.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0121.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0121.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0122.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0122.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0123.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0123.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0124.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0124.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0125.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0125.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0126.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0126.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0127.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0127.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0128.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0128.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0129.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0129.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0130.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0130.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0131.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0131.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0132.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0132.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0133.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0133.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0134.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0134.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0135.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0135.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0136.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0136.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0137.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0137.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0138.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0138.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0139.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0139.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0140.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0140.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0141.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0141.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0142.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0142.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0143.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0143.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0144.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0144.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0145.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0145.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0146.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0146.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0147.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0147.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0148.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0148.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0149.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0149.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0150.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0150.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0151.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0151.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0152.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0152.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0153.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0153.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0154.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0154.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0155.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0155.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0156.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0156.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0157.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0157.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0158.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0158.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0159.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0159.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0160.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0160.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0161.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0161.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0162.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0162.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0163.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0163.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0164.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0164.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0165.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0165.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0166.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0166.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0167.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0167.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0168.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0168.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0169.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0169.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0170.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0170.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0171.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0171.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0172.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0172.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0173.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0173.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0174.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0174.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0175.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0175.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0176.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0176.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0177.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0177.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0178.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0178.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0179.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0179.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0180.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0180.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0181.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0181.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0182.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0182.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0183.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0183.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0184.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0184.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0185.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0185.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0186.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0186.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0187.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0187.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0188.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0188.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0189.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0189.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0190.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0190.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0191.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0191.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0192.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0192.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0193.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0193.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0194.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0194.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0195.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0195.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0196.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0196.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0197.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0197.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0198.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0198.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0199.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0199.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0200.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0200.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0201.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0201.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0202.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0202.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0203.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0203.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0204.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0204.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0205.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0205.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0206.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0206.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0207.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0207.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0208.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0208.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0209.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0209.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0210.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0210.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0211.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0211.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0212.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0212.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0213.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0213.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0214.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0214.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0215.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0215.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0216.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0216.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0217.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0217.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0218.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0218.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0219.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0219.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0220.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0220.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0221.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0221.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0222.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0222.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0223.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0223.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0224.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0224.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0225.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0225.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0226.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0226.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0227.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0227.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0228.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0228.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0229.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0229.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0230.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0230.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0231.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0231.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0232.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0232.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0233.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0233.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0234.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0234.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0235.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0235.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0236.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0236.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0237.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0237.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0238.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0238.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0239.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0239.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0240.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0240.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0241.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0241.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0242.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0242.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0243.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0243.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0244.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0244.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0245.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0245.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0246.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0246.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0247.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0247.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0248.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0248.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0249.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0249.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0250.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0250.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0251.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0251.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0252.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0252.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0253.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0253.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0254.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0254.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0255.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0255.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0256.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0256.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0257.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0257.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0258.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0258.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0259.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0259.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0260.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0260.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0261.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0261.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0262.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0262.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0263.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0263.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0264.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0264.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0265.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0265.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0266.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0266.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0267.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0267.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0268.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0268.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0269.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0269.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0270.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0270.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0271.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0271.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0272.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0272.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0273.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0273.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0274.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0274.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0275.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0275.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0276.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0276.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0277.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0277.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0278.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0278.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0279.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0279.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0280.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0280.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0281.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0281.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0282.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0282.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0283.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0283.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0284.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0284.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0285.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0285.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0286.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0286.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0287.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0287.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0288.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0288.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0289.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0289.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0290.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0290.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0291.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0291.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0292.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0292.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0293.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0293.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0294.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0294.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0295.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0295.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0296.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0296.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0297.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0297.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0298.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0298.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0299.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0299.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0300.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0300.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0301.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0301.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0302.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0302.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0303.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0303.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0304.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0304.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0305.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0305.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0306.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0306.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0307.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0307.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0308.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0308.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0309.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0309.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0310.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0310.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0311.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0311.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0312.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0312.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0313.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0313.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0314.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0314.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0315.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0315.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0316.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0316.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0317.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0317.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0318.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0318.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0319.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0319.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0320.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0320.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0321.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0321.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0322.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0322.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0323.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0323.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0324.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0324.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0325.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0325.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0326.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0326.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0327.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0327.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0328.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0328.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0329.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0329.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0330.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0330.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0331.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0331.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0332.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0332.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0333.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0333.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0334.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0334.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0335.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0335.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0336.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0336.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0337.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0337.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0338.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0338.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0339.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0339.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0340.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0340.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0341.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0341.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0342.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0342.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0343.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0343.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0344.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0344.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0345.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0345.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0346.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0346.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0347.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0347.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0348.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0348.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0349.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0349.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0350.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0350.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0351.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0351.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0352.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0352.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0353.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0353.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0354.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0354.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0355.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0355.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0356.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0356.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0357.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0357.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0358.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0358.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0359.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0359.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0360.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0360.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0361.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0361.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0362.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0362.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0363.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0363.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0364.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0364.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0365.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0365.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0366.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0366.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0367.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0367.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0368.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0368.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0369.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0369.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0370.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0370.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0371.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0371.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0372.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0372.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0373.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0373.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0374.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0374.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0375.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0375.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0376.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0376.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0377.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0377.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0378.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0378.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0379.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0379.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0380.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0380.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0381.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0381.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0382.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0382.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0383.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0383.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0384.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0384.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0385.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0385.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0386.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0386.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0387.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0387.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0388.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0388.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0389.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0389.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0390.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0390.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0391.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0391.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0392.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0392.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0393.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0393.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0394.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0394.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0395.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0395.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0396.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0396.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0397.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0397.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0398.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0398.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0399.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0399.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0400.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0400.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0401.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0401.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0402.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0402.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0403.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0403.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0404.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0404.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0405.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0405.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0406.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0406.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0407.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0407.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0408.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0408.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0409.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0409.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0410.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0410.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0411.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0411.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0412.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0412.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0413.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0413.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0414.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0414.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0415.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0415.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0416.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0416.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0417.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0417.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0418.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0418.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0419.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0419.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0420.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0420.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0421.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0421.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0422.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0422.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0423.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0423.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0424.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0424.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0425.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0425.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0426.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0426.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0427.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0427.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0428.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0428.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0429.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0429.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0430.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0430.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0431.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0431.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0432.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0432.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0433.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0433.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0434.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0434.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0435.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0435.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0436.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0436.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0437.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0437.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0438.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0438.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0439.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0439.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0440.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0440.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0441.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0441.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0442.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0442.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0443.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0443.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0444.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0444.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0445.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0445.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0446.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0446.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0447.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0447.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0448.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0448.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0449.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0449.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0450.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0450.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0451.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0451.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0452.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0452.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0453.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0453.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0454.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0454.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0455.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0455.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0456.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0456.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0457.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0457.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0458.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0458.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0459.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0459.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0460.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0460.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0461.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0461.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0462.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0462.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0463.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0463.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0464.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0464.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0465.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0465.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0466.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0466.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0467.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0467.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0468.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0468.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0469.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0469.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0470.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0470.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0471.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0471.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0472.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0472.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0473.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0473.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0474.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0474.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0475.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0475.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0476.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0476.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0477.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0477.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0478.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0478.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0479.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0479.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0480.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0480.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0481.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0481.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0482.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0482.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0483.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0483.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0484.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0484.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0485.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0485.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0486.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0486.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0487.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0487.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0488.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0488.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0489.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0489.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0490.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0490.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0491.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0491.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0492.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0492.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0493.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0493.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0494.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0494.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0495.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0495.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0496.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0496.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0497.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0497.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0498.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0498.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0499.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://robloxfix-web.github.io/errors/0499.html</loc>
+    <loc>https://robloxfix-web.github.io/roblox-errors/errors/0500.html</loc>
     <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
-  </url>
-  <url>
-    <loc>https://robloxfix-web.github.io/errors/0500.html</loc>
-    <priority>0.8</priority>
-    <changefreq>yearly</changefreq>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
