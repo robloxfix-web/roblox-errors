@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://robloxfix-web.github.io/roblox-errors/sitemap.xml
